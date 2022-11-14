@@ -1,0 +1,15 @@
+ .header_div a{
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+text-align: right;
+text-decoration: none;
+margin:  0 17px;
+color: black;
+}
+.header_div{
+	display: flex;
+	justify-content: flex-end;
+}
